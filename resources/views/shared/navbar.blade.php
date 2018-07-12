@@ -28,6 +28,7 @@
 			<ul class="dropdown-menu" role="menu">
 				<li><a href="/users/register">Register</a></li>
 				<li><a href="/users/login">Login</a></li>
+				<li><a href="/users/login">Logout</a></li>
 			</ul>
 			</li>
 		</ul>
